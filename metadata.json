@@ -1,0 +1,6 @@
+{
+  "name": "Dyslexia Screening System",
+  "description": "A minimal, accessible educational dyslexia screening and learning support platform for university students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
